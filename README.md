@@ -185,7 +185,7 @@ The `src/` and `tests/` directories can be created as the implementation is deve
 ### Conda Setup
 
 ```bash
-conda create -n warehouse_env python=3.11 -y
+conda create -n warehouse_env python=3.12 -y
 conda activate warehouse_env
 ```
 
